@@ -2,3 +2,5 @@ venv/
 build/
 dist/
 wyltools.egg-info
+*.pyc
+*/.idea/
